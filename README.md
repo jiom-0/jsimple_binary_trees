@@ -1,4 +1,4 @@
-# How can i run it?
+# How can i download?
 First download and compile Java from https://www.java.com/, or just install the .exe from the website if you are using Windows.
 If your OS is Linux, you can use the package manager of your system, for exemple:
 #### pacman:
@@ -14,21 +14,10 @@ Then clone the repo with git:
 ```ShellScript
 git clone http://github.com/jiom-0/jsimple_binary_trees.git 
 ```
-Or just download, decompress and follow the next steps:
 
-### Windows
-Decompress the files, go to the project folder then:
-```BashScript
-  
-```
+Or just download, decompress and go to the project folder. Now you can do your changes.
 
-### Linux
-Decompress the files, go to the project folder then:
-For exemple:
-
-```ShellScript
-
-```
+For beginners we recommend the use and IDE like VScode to edit and execute the code.
 
 Binary tree and AVL are one of the simplest nonlinear algorithms in
 data structures and become more interesting as the language becomes
