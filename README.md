@@ -1,6 +1,14 @@
 # How can i run it?
 First download and compile Java from https://www.java.com/, or just install the .exe from the website if you are using Windows.
-If your OS is Linux, you can use the package manager of your system, for exemple on Arch Linux with  ``` $ sudo pacman -S jre-openjdk-headless jre-openjdk jdk-openjdk openjdk-doc openjdk-src  ```
+If your OS is Linux, you can use the package manager of your system, for exemple:
+#### pacman:
+```
+sudo pacman -S jre-openjdk-headless jre-openjdk jdk-openjdk openjdk-doc openjdk-src
+```
+#### apt:
+```
+sudo apt install openjdk-11-jdk
+```
 
 Then clone the repo with git: 
 ```ShellScript
